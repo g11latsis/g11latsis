@@ -4,10 +4,10 @@
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=g11latsis&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/g11latsis/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g11latsis&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/g11latsis/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g11latsis&repo=convoychat" />
 </a>
 
