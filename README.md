@@ -4,7 +4,7 @@
     
 [![GitHub Streak](https://streak-stats.demolab.com?user=g11latsis&theme=dark)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g11latsis&layout=compact)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=g11latsis&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g11latsis&theme=2077)
