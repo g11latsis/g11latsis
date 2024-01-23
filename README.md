@@ -6,6 +6,8 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=g11latsis&theme=2077)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=g11latsis&theme=2077)
+| <a href="https://github.com/g11latsis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=g11latsis&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="Grigoris github stats" /></a> | <a href="https://github.com/g11latsis/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g11latsis&theme=github_dark&layout=compact&hide_border=true" /></a> |
+
 </div>
 
 <div align="center">
