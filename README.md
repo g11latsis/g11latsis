@@ -20,10 +20,10 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
-
+<!-- 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=g11latsis)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- 
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=g11latsis&theme=dark)](https://git.io/streak-stats) 
 -->
 
